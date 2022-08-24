@@ -1,2 +1,2 @@
 #requirements.txt
-snowflake-conector-phyton
+snowflake-connector-phyton
